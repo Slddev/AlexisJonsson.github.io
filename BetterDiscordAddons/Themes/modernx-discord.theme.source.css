@@ -11219,54 +11219,73 @@ html:not(.app-focused) .sidebarRegionScroller-FXiQOh {
     width: 100%
 }
 
+.container-1NXEtd a[aria-label*=唱歌] .iconContainer-21RCa3,
 .container-1NXEtd a[aria-label*=voice] .iconContainer-21RCa3 {
-    --icon: var(--icon-microphone);
-    background-color: var(--icon-color)
+  --icon: var(--icon-microphone);
+  background-color: var(--icon-color)
 }
 
 .container-1NXEtd a[aria-label*=ama] .iconContainer-21RCa3,
 .container-1NXEtd a[aria-label*=qna] .iconContainer-21RCa3 {
-    --icon: var(--icon-qna);
-    background-color: var(--icon-color)
+  --icon: var(--icon-qna);
+  background-color: var(--icon-color)
 }
 
 .container-1NXEtd a[aria-label*=group] .iconContainer-21RCa3,
 .container-1NXEtd a[aria-label*=multiplayer] .iconContainer-21RCa3,
+.container-1NXEtd a[aria-label*=多人] .iconContainer-21RCa3,
+.container-1NXEtd a[aria-label*=社交] .iconContainer-21RCa3,
 .container-1NXEtd a[aria-label*=social] .iconContainer-21RCa3 {
-    --icon: var(--icon-group);
-    background-color: var(--icon-color)
+  --icon: var(--icon-group);
+  background-color: var(--icon-color)
 }
 
+.container-1NXEtd a[aria-label*=公告] .iconContainer-21RCa3,
 .container-1NXEtd a[aria-label*=announcement] .iconContainer-21RCa3 {
-    --icon: var(--icon-announcements);
-    background-color: var(--icon-color)
+  --icon: var(--icon-announcements);
+  background-color: var(--icon-color)
 }
 
+.container-1NXEtd a[aria-label*=關於] .iconContainer-21RCa3,
+.container-1NXEtd a[aria-label*=資訊] .iconContainer-21RCa3,
+.container-1NXEtd a[aria-label*=導覽] .iconContainer-21RCa3,
+.container-1NXEtd a[aria-label*=說明] .iconContainer-21RCa3,
+.container-1NXEtd a[aria-label*=guide] .iconContainer-21RCa3,
 .container-1NXEtd a[aria-label*=about] .iconContainer-21RCa3,
 .container-1NXEtd a[aria-label*=info] .iconContainer-21RCa3,
 .container-1NXEtd a[aria-label*=instruction] .iconContainer-21RCa3 {
-    --icon: var(--icon-info);
-    background-color: var(--icon-color)
+  --icon: var(--icon-info);
+  background-color: var(--icon-color)
 }
 
 .container-1NXEtd a[aria-label*=faq] .iconContainer-21RCa3,
+.container-1NXEtd a[aria-label*=問題] .iconContainer-21RCa3,
 .container-1NXEtd a[aria-label*=help] .iconContainer-21RCa3,
 .container-1NXEtd a[aria-label*=question] .iconContainer-21RCa3 {
-    --icon: var(--icon-help);
-    background-color: var(--icon-color)
+  --icon: var(--icon-help);
+  background-color: var(--icon-color)
 }
+
 
 .container-1NXEtd a[aria-label*=programmer] .iconContainer-21RCa3,
 .container-1NXEtd a[aria-label*=programming] .iconContainer-21RCa3 {
-    --icon: var(--icon-api);
-    background-color: var(--icon-color)
+  --icon: var(--icon-api);
+  background-color: var(--icon-color)
 }
 
+.container-1NXEtd a[aria-label*=幫助] .iconContainer-21RCa3,
+.container-1NXEtd a[aria-label*=協助] .iconContainer-21RCa3,
 .container-1NXEtd a[aria-label*=support] .iconContainer-21RCa3 {
-    --icon: var(--icon-support);
-    background-color: var(--icon-color)
+  --icon: var(--icon-support);
+  background-color: var(--icon-color)
 }
 
+.container-1NXEtd a[aria-label*=背景] .iconContainer-21RCa3,
+.container-1NXEtd a[aria-label*=畫廊] .iconContainer-21RCa3,
+.container-1NXEtd a[aria-label*=圖片] .iconContainer-21RCa3,
+.container-1NXEtd a[aria-label*=照片] .iconContainer-21RCa3,
+.container-1NXEtd a[aria-label*=截圖] .iconContainer-21RCa3,
+.container-1NXEtd a[aria-label*=桌布] .iconContainer-21RCa3,
 .container-1NXEtd a[aria-label*=background] .iconContainer-21RCa3,
 .container-1NXEtd a[aria-label*=gallery] .iconContainer-21RCa3,
 .container-1NXEtd a[aria-label*=image] .iconContainer-21RCa3,
@@ -11274,587 +11293,734 @@ html:not(.app-focused) .sidebarRegionScroller-FXiQOh {
 .container-1NXEtd a[aria-label*=picture] .iconContainer-21RCa3,
 .container-1NXEtd a[aria-label*=screenshot] .iconContainer-21RCa3,
 .container-1NXEtd a[aria-label*=wallpaper] .iconContainer-21RCa3 {
-    --icon: var(--icon-image);
-    background-color: var(--icon-color)
+  --icon: var(--icon-image);
+  background-color: var(--icon-color)
 }
 
+.container-1NXEtd a[aria-label*=工作] .iconContainer-21RCa3,
 .container-1NXEtd a[aria-label*=job] .iconContainer-21RCa3,
 .container-1NXEtd a[aria-label*=work] .iconContainer-21RCa3 {
-    --icon: var(--icon-job);
-    background-color: var(--icon-color)
+  --icon: var(--icon-job);
+  background-color: var(--icon-color)
 }
 
+.container-1NXEtd a[aria-label*=主題] .iconContainer-21RCa3,
+.container-1NXEtd a[aria-label*=畫] .iconContainer-21RCa3,
 .container-1NXEtd a[aria-label*=art] .iconContainer-21RCa3,
 .container-1NXEtd a[aria-label*=theme] .iconContainer-21RCa3 {
-    --icon: var(--icon-theme);
-    background-color: var(--icon-color)
+  --icon: var(--icon-theme);
+  background-color: var(--icon-color)
 }
 
+.container-1NXEtd a[aria-label*=地球] .iconContainer-21RCa3,
+.container-1NXEtd a[aria-label*=全球] .iconContainer-21RCa3,
+.container-1NXEtd a[aria-label*=國際] .iconContainer-21RCa3,
+.container-1NXEtd a[aria-label*=星球] .iconContainer-21RCa3,
+.container-1NXEtd a[aria-label*=地點] .iconContainer-21RCa3,
 .container-1NXEtd a[aria-label*=earth] .iconContainer-21RCa3,
 .container-1NXEtd a[aria-label*=globe] .iconContainer-21RCa3,
 .container-1NXEtd a[aria-label*=international] .iconContainer-21RCa3,
 .container-1NXEtd a[aria-label*=planet] .iconContainer-21RCa3,
 .container-1NXEtd a[aria-label*=site] .iconContainer-21RCa3 {
-    --icon: var(--icon-language);
-    background-color: var(--icon-color)
+  --icon: var(--icon-language);
+  background-color: var(--icon-color)
 }
 
+.container-1NXEtd a[aria-label*=插件] .iconContainer-21RCa3,
+.container-1NXEtd a[aria-label*=元件] .iconContainer-21RCa3,
+.container-1NXEtd a[aria-label*=擴充] .iconContainer-21RCa3,
 .container-1NXEtd a[aria-label*=addon] .iconContainer-21RCa3,
 .container-1NXEtd a[aria-label*=extension] .iconContainer-21RCa3,
 .container-1NXEtd a[aria-label*=plugin] .iconContainer-21RCa3 {
-    --icon: var(--icon-plugin);
-    background-color: var(--icon-color)
+  --icon: var(--icon-plugin);
+  background-color: var(--icon-color)
 }
 
+.container-1NXEtd a[aria-label*=編程] .iconContainer-21RCa3,
+.container-1NXEtd a[aria-label*=程式] .iconContainer-21RCa3,
+.container-1NXEtd a[aria-label*=腳本] .iconContainer-21RCa3,
 .container-1NXEtd a[aria-label*=code] .iconContainer-21RCa3,
 .container-1NXEtd a[aria-label*=codi] .iconContainer-21RCa3,
 .container-1NXEtd a[aria-label*=css] .iconContainer-21RCa3,
 .container-1NXEtd a[aria-label*=script] .iconContainer-21RCa3 {
-    background-color: var(--icon-color);
-    --icon: var(--icon-code)
+  background-color: var(--icon-color);
+  --icon: var(--icon-code)
 }
 
+.container-1NXEtd a[aria-label*=動物] .iconContainer-21RCa3,
+.container-1NXEtd a[aria-label*=寵物] .iconContainer-21RCa3,
 .container-1NXEtd a[aria-label*=animal] .iconContainer-21RCa3,
 .container-1NXEtd a[aria-label*=pets] .iconContainer-21RCa3 {
-    --icon: var(--icon-pets);
-    background-color: var(--icon-color)
+  --icon: var(--icon-pets);
+  background-color: var(--icon-color)
 }
 
+.container-1NXEtd a[aria-label*=片段] .iconContainer-21RCa3,
 .container-1NXEtd a[aria-label*=snippet] .iconContainer-21RCa3 {
-    --icon: var(--icon-code-snippet);
-    background-color: var(--icon-color)
+  --icon: var(--icon-code-snippet);
+  background-color: var(--icon-color)
 }
 
+.container-1NXEtd a[aria-label*=編輯] .iconContainer-21RCa3,
+.container-1NXEtd a[aria-label*=名子] .iconContainer-21RCa3,
+.container-1NXEtd a[aria-label*=姓名] .iconContainer-21RCa3,
+.container-1NXEtd a[aria-label*=暱稱] .iconContainer-21RCa3,
 .container-1NXEtd a[aria-label*=edit] .iconContainer-21RCa3,
 .container-1NXEtd a[aria-label*=name] .iconContainer-21RCa3,
 .container-1NXEtd a[aria-label*=nickname] .iconContainer-21RCa3,
 .container-1NXEtd a[aria-label*=write] .iconContainer-21RCa3 {
-    background-color: var(--icon-color);
-    --icon: var(--icon-edit)
+  background-color: var(--icon-color);
+  --icon: var(--icon-edit)
 }
 
+.container-1NXEtd a[aria-label*=斗內] .iconContainer-21RCa3,
+.container-1NXEtd a[aria-label*=贊助者] .iconContainer-21RCa3,
+.container-1NXEtd a[aria-label*=星] .iconContainer-21RCa3,
 .container-1NXEtd a[aria-label*=donator] .iconContainer-21RCa3,
 .container-1NXEtd a[aria-label*=sponsor] .iconContainer-21RCa3,
 .container-1NXEtd a[aria-label*=star] .iconContainer-21RCa3,
 .container-1NXEtd a[aria-label*=supporter] .iconContainer-21RCa3 {
-    background-color: var(--icon-color);
-    --icon: var(--icon-stars)
+  background-color: var(--icon-color);
+  --icon: var(--icon-stars)
 }
 
+.container-1NXEtd a[aria-label*=協助者] .iconContainer-21RCa3,
+.container-1NXEtd a[aria-label*=有幫助的] .iconContainer-21RCa3,
 .container-1NXEtd a[aria-label*=helper] .iconContainer-21RCa3,
 .container-1NXEtd a[aria-label*=helpful] .iconContainer-21RCa3 {
-    background-color: var(--icon-color);
-    --icon: var(--icon-heart)
+  background-color: var(--icon-color);
+  --icon: var(--icon-heart)
 }
 
+.container-1NXEtd a[aria-label*=服務人員] .iconContainer-21RCa3,
+.container-1NXEtd a[aria-label*=工作人員] .iconContainer-21RCa3,
+.container-1NXEtd a[aria-label*=員工] .iconContainer-21RCa3,
 .container-1NXEtd a[aria-label*=mod] .iconContainer-21RCa3,
 .container-1NXEtd a[aria-label*=moderator] .iconContainer-21RCa3,
 .container-1NXEtd a[aria-label*=staff] .iconContainer-21RCa3 {
-    background-color: var(--icon-color);
-    --icon: var(--icon-mod)
+  background-color: var(--icon-color);
+  --icon: var(--icon-mod)
 }
 
+.container-1NXEtd a[aria-label*=開發者] .iconContainer-21RCa3,
+.container-1NXEtd a[aria-label*=腦袋] .iconContainer-21RCa3,
 .container-1NXEtd a[aria-label*=brain] .iconContainer-21RCa3,
 .container-1NXEtd a[aria-label*=developer] .iconContainer-21RCa3 {
-    background-color: var(--icon-color);
-    --icon: var(--icon-dev)
+  background-color: var(--icon-color);
+  --icon: var(--icon-dev)
 }
 
+.container-1NXEtd a[aria-label*=商店] .iconContainer-21RCa3,
+.container-1NXEtd a[aria-label*=市場] .iconContainer-21RCa3,
+.container-1NXEtd a[aria-label*=店面] .iconContainer-21RCa3,
 .container-1NXEtd a[aria-label*=market] .iconContainer-21RCa3,
 .container-1NXEtd a[aria-label*=shop] .iconContainer-21RCa3,
 .container-1NXEtd a[aria-label*=store] .iconContainer-21RCa3 {
-    background-color: var(--icon-color);
-    --icon: var(--icon-store)
+  background-color: var(--icon-color);
+  --icon: var(--icon-store)
 }
 
+.container-1NXEtd a[aria-label*=警告] .iconContainer-21RCa3,
+.container-1NXEtd a[aria-label*=暴雷] .iconContainer-21RCa3,
 .container-1NXEtd a[aria-label*=spoiler] .iconContainer-21RCa3,
 .container-1NXEtd a[aria-label*=warning] .iconContainer-21RCa3 {
-    background-color: var(--icon-color);
-    --icon: var(--icon-problem)
+  background-color: var(--icon-color);
+  --icon: var(--icon-problem)
 }
 
+.container-1NXEtd a[aria-label*=設計] .iconContainer-21RCa3,
 .container-1NXEtd a[aria-label*=design] .iconContainer-21RCa3 {
-    background-color: var(--icon-color);
-    --icon: var(--icon-design)
+  background-color: var(--icon-color);
+  --icon: var(--icon-design)
 }
 
+.container-1NXEtd a[aria-label*=建築] .iconContainer-21RCa3,
 .container-1NXEtd a[aria-label*=architect] .iconContainer-21RCa3 {
-    background-color: var(--icon-color);
-    --icon: var(--icon-architecture)
+  background-color: var(--icon-color);
+  --icon: var(--icon-architecture)
 }
 
+.container-1NXEtd a[aria-label*=紀錄] .iconContainer-21RCa3,
+.container-1NXEtd a[aria-label*=圖書] .iconContainer-21RCa3,
+.container-1NXEtd a[aria-label*=網頁] .iconContainer-21RCa3,
 .container-1NXEtd a[aria-label*=library] .iconContainer-21RCa3,
 .container-1NXEtd a[aria-label*=log] .iconContainer-21RCa3,
 .container-1NXEtd a[aria-label*=web] .iconContainer-21RCa3 {
-    background-color: var(--icon-color);
-    --icon: var(--icon-list2)
+  background-color: var(--icon-color);
+  --icon: var(--icon-list2)
 }
 
+.container-1NXEtd a[aria-label*=廢棄] .iconContainer-21RCa3,
+.container-1NXEtd a[aria-label*=停用] .iconContainer-21RCa3,
 .container-1NXEtd a[aria-label*=archive] .iconContainer-21RCa3 {
-    background-color: var(--icon-color);
-    --icon: var(--icon-archive)
+  background-color: var(--icon-color);
+  --icon: var(--icon-archive)
 }
 
+.container-1NXEtd a[aria-label*=食物] .iconContainer-21RCa3,
 .container-1NXEtd a[aria-label*=food] .iconContainer-21RCa3 {
-    background-color: var(--icon-color);
-    --icon: var(--icon-food)
+  background-color: var(--icon-color);
+  --icon: var(--icon-food)
 }
 
+.container-1NXEtd a[aria-label*=飲料] .iconContainer-21RCa3,
 .container-1NXEtd a[aria-label*=drink] .iconContainer-21RCa3 {
-    background-color: var(--icon-color);
-    --icon: var(--icon-drink)
+  background-color: var(--icon-color);
+  --icon: var(--icon-drink)
 }
 
+.container-1NXEtd a[aria-label*=列表] .iconContainer-21RCa3,
+.container-1NXEtd a[aria-label*=筆記] .iconContainer-21RCa3,
+.container-1NXEtd a[aria-label*=寫] .iconContainer-21RCa3,
 .container-1NXEtd a[aria-label*=list] .iconContainer-21RCa3,
 .container-1NXEtd a[aria-label*=note] .iconContainer-21RCa3,
 .container-1NXEtd a[aria-label*=writing] .iconContainer-21RCa3 {
-    background-color: var(--icon-color);
-    --icon: var(--icon-list)
+  background-color: var(--icon-color);
+  --icon: var(--icon-list)
 }
 
 .container-1NXEtd a[aria-label*="-repo"] .iconContainer-21RCa3,
 .container-1NXEtd a[aria-label*=github-log] .iconContainer-21RCa3,
 .container-1NXEtd a[aria-label*=github] .iconContainer-21RCa3,
 .container-1NXEtd a[aria-label*=repositor] .iconContainer-21RCa3 {
-    --icon: var(--icon-github);
-    background-color: var(--icon-color)
+  --icon: var(--icon-github);
+  background-color: var(--icon-color)
 }
 
+.container-1NXEtd a[aria-label*=玩] .iconContainer-21RCa3,
+.container-1NXEtd a[aria-label*=遊戲] .iconContainer-21RCa3,
 .container-1NXEtd a[aria-label*=game] .iconContainer-21RCa3,
 .container-1NXEtd a[aria-label*=games] .iconContainer-21RCa3,
 .container-1NXEtd a[aria-label*=gamin] .iconContainer-21RCa3,
 .container-1NXEtd a[aria-label*=gaming] .iconContainer-21RCa3,
 .container-1NXEtd a[aria-label*=gayming] .iconContainer-21RCa3,
 .container-1NXEtd a[aria-label*=playtesting] .iconContainer-21RCa3 {
-    --icon: var(--icon-games);
-    background-color: var(--icon-color)
+  --icon: var(--icon-games);
+  background-color: var(--icon-color)
 }
 
+.container-1NXEtd a[aria-label*=下載] .iconContainer-21RCa3,
 .container-1NXEtd a[aria-label*=download] .iconContainer-21RCa3 {
-    --icon: var(--icon-download);
-    background-color: var(--icon-color)
+  --icon: var(--icon-download);
+  background-color: var(--icon-color)
 }
 
+.container-1NXEtd a[aria-label*=工具] .iconContainer-21RCa3,
+.container-1NXEtd a[aria-label*=給西] .iconContainer-21RCa3,
 .container-1NXEtd a[aria-label*=modd] .iconContainer-21RCa3,
 .container-1NXEtd a[aria-label*=tech] .iconContainer-21RCa3,
 .container-1NXEtd a[aria-label*=tool] .iconContainer-21RCa3 {
-    --icon: var(--icon-tool);
-    background-color: var(--icon-color)
+  --icon: var(--icon-tool);
+  background-color: var(--icon-color)
 }
 
+.container-1NXEtd a[aria-label*=陰謀] .iconContainer-21RCa3,
+.container-1NXEtd a[aria-label*=真相] .iconContainer-21RCa3,
 .container-1NXEtd a[aria-label*=conspiraci] .iconContainer-21RCa3,
 .container-1NXEtd a[aria-label*=conspiracy] .iconContainer-21RCa3,
 .container-1NXEtd a[aria-label*=illuminati] .iconContainer-21RCa3,
 .container-1NXEtd a[aria-label*=the-truth] .iconContainer-21RCa3 {
-    --icon: var(--icon-truth);
-    background-color: var(--icon-color)
+  --icon: var(--icon-truth);
+  background-color: var(--icon-color)
 }
 
+.container-1NXEtd a[aria-label*=指令] .iconContainer-21RCa3,
+.container-1NXEtd a[aria-label*=命令] .iconContainer-21RCa3,
 .container-1NXEtd a[aria-label*=command] .iconContainer-21RCa3 {
-    --icon: var(--icon-commands);
-    background-color: var(--icon-color)
+  --icon: var(--icon-commands);
+  background-color: var(--icon-color)
 }
 
+.container-1NXEtd a[aria-label*=光影] .iconContainer-21RCa3,
+.container-1NXEtd a[aria-label*=影子] .iconContainer-21RCa3,
 .container-1NXEtd a[aria-label*=shader] .iconContainer-21RCa3 {
-    --icon: var(--icon-shader);
-    background-color: var(--icon-color)
+  --icon: var(--icon-shader);
+  background-color: var(--icon-color)
 }
 
+.container-1NXEtd a[aria-label*=沙盒] .iconContainer-21RCa3,
 .container-1NXEtd a[aria-label*=asset] .iconContainer-21RCa3,
 .container-1NXEtd a[aria-label*=sandbox] .iconContainer-21RCa3 {
-    --icon: var(--icon-asset);
-    background-color: var(--icon-color)
+  --icon: var(--icon-asset);
+  background-color: var(--icon-color)
 }
 
+.container-1NXEtd a[aria-label*=蒐集] .iconContainer-21RCa3,
+.container-1NXEtd a[aria-label*=集合] .iconContainer-21RCa3,
+.container-1NXEtd a[aria-label*=整合] .iconContainer-21RCa3,
 .container-1NXEtd a[aria-label*=collection] .iconContainer-21RCa3 {
-    --icon: var(--icon-collection);
-    background-color: var(--icon-color)
+  --icon: var(--icon-collection);
+  background-color: var(--icon-color)
 }
 
+.container-1NXEtd a[aria-label*=警告] .iconContainer-21RCa3,
+.container-1NXEtd a[aria-label*=讀這個] .iconContainer-21RCa3,
 .container-1NXEtd a[aria-label*=alert] .iconContainer-21RCa3,
 .container-1NXEtd a[aria-label*=read-this] .iconContainer-21RCa3 {
-    --icon: var(--icon-alert);
-    background-color: var(--icon-color)
+  --icon: var(--icon-alert);
+  background-color: var(--icon-color)
 }
 
+.container-1NXEtd a[aria-label*=參考] .iconContainer-21RCa3,
 .container-1NXEtd a[aria-label*=reference] .iconContainer-21RCa3 {
-    --icon: var(--icon-reference);
-    background-color: var(--icon-color)
+  --icon: var(--icon-reference);
+  background-color: var(--icon-color)
 }
 
 .container-1NXEtd a[aria-label*=dump] .iconContainer-21RCa3 {
-    --icon: var(--icon-dump);
-    background-color: var(--icon-color)
+  --icon: var(--icon-dump);
+  background-color: var(--icon-color)
 }
 
+.container-1NXEtd a[aria-label*=動畫] .iconContainer-21RCa3,
+.container-1NXEtd a[aria-label*=動漫] .iconContainer-21RCa3,
 .container-1NXEtd a[aria-label*=animat] .iconContainer-21RCa3 {
-    --icon: var(--icon-animation);
-    background-color: var(--icon-color)
+  --icon: var(--icon-animation);
+  background-color: var(--icon-color)
 }
 
 .container-1NXEtd a[aria-label*=blueprint] .iconContainer-21RCa3,
 .container-1NXEtd a[aria-label*=node] .iconContainer-21RCa3,
 .container-1NXEtd a[aria-label*=pipeline] .iconContainer-21RCa3 {
-    --icon: var(--icon-pipeline);
-    background-color: var(--icon-color)
+  --icon: var(--icon-pipeline);
+  background-color: var(--icon-color)
 }
 
+.container-1NXEtd a[aria-label*=歡迎] .iconContainer-21RCa3,
+.container-1NXEtd a[aria-label*=合作者] .iconContainer-21RCa3,
+.container-1NXEtd a[aria-label*=贊助者] .iconContainer-21RCa3,
 .container-1NXEtd a[aria-label*=new-member] .iconContainer-21RCa3,
 .container-1NXEtd a[aria-label*=partner] .iconContainer-21RCa3,
 .container-1NXEtd a[aria-label*=supporter] .iconContainer-21RCa3,
 .container-1NXEtd a[aria-label*=welcome] .iconContainer-21RCa3 {
-    --icon: var(--icon-welcome);
-    background-color: var(--icon-color)
+  --icon: var(--icon-welcome);
+  background-color: var(--icon-color)
 }
 
+.container-1NXEtd a[aria-label*=容器] .iconContainer-21RCa3,
 .container-1NXEtd a[aria-label*=environment] .iconContainer-21RCa3,
 .container-1NXEtd a[aria-label*=terrain] .iconContainer-21RCa3 {
-    --icon: var(--icon-environment);
-    background-color: var(--icon-color)
+  --icon: var(--icon-environment);
+  background-color: var(--icon-color)
 }
 
+.container-1NXEtd a[aria-label*=聲音] .iconContainer-21RCa3,
+.container-1NXEtd a[aria-label*=音效] .iconContainer-21RCa3,
 .container-1NXEtd a[aria-label*=audio] .iconContainer-21RCa3,
 .container-1NXEtd a[aria-label*=sfx] .iconContainer-21RCa3,
 .container-1NXEtd a[aria-label*=sound] .iconContainer-21RCa3 {
-    --icon: var(--icon-sfx);
-    background-color: var(--icon-color)
+  --icon: var(--icon-sfx);
+  background-color: var(--icon-color)
 }
 
+.container-1NXEtd a[aria-label*=概念] .iconContainer-21RCa3,
+.container-1NXEtd a[aria-label*=學說] .iconContainer-21RCa3,
 .container-1NXEtd a[aria-label*=concept] .iconContainer-21RCa3 {
-    --icon: var(--icon-concept);
-    background-color: var(--icon-color)
+  --icon: var(--icon-concept);
+  background-color: var(--icon-color)
 }
 
 .container-1NXEtd a[aria-label*=decal] .iconContainer-21RCa3 {
-    --icon: var(--icon-decal);
-    background-color: var(--icon-color)
+  --icon: var(--icon-decal);
+  background-color: var(--icon-color)
 }
 
+.container-1NXEtd a[aria-label*=圖標] .iconContainer-21RCa3,
 .container-1NXEtd a[aria-label*=icon] .iconContainer-21RCa3,
 .container-1NXEtd a[aria-label*=ui] .iconContainer-21RCa3,
 .container-1NXEtd a[aria-label*=ux] .iconContainer-21RCa3 {
-    --icon: var(--icon-ui-ux);
-    background-color: var(--icon-color)
+  --icon: var(--icon-ui-ux);
+  background-color: var(--icon-color)
 }
 
+.container-1NXEtd a[aria-label*=模型] .iconContainer-21RCa3,
 .container-1NXEtd a[aria-label*=model] .iconContainer-21RCa3 {
-    --icon: var(--icon-model);
-    background-color: var(--icon-color)
+  --icon: var(--icon-model);
+  background-color: var(--icon-color)
 }
 
+.container-1NXEtd a[aria-label*=任務] .iconContainer-21RCa3,
 .container-1NXEtd a[aria-label*=task] .iconContainer-21RCa3 {
-    --icon: var(--icon-task);
-    background-color: var(--icon-color)
+  --icon: var(--icon-task);
+  background-color: var(--icon-color)
 }
 
+.container-1NXEtd a[aria-label*=彈道] .iconContainer-21RCa3,
 .container-1NXEtd a[aria-label*=ballistics] .iconContainer-21RCa3 {
-    --icon: var(--icon-ballistics);
-    background-color: var(--icon-color)
+  --icon: var(--icon-ballistics);
+  background-color: var(--icon-color)
 }
 
+.container-1NXEtd a[aria-label*=來源] .iconContainer-21RCa3,
 .container-1NXEtd a[aria-label*=source] .iconContainer-21RCa3 {
-    --icon: var(--icon-source);
-    background-color: var(--icon-color)
+  --icon: var(--icon-source);
+  background-color: var(--icon-color)
 }
 
+.container-1NXEtd a[aria-label*=資料夾] .iconContainer-21RCa3,
+.container-1NXEtd a[aria-label*=資源] .iconContainer-21RCa3,
 .container-1NXEtd a[aria-label*=folder] .iconContainer-21RCa3,
 .container-1NXEtd a[aria-label*=resource] .iconContainer-21RCa3 {
-    --icon: var(--icon-folder);
-    background-color: var(--icon-color)
+  --icon: var(--icon-folder);
+  background-color: var(--icon-color)
 }
 
+.container-1NXEtd a[aria-label*=介紹] .iconContainer-21RCa3,
+.container-1NXEtd a[aria-label*=顯示] .iconContainer-21RCa3,
+.container-1NXEtd a[aria-label*=範例] .iconContainer-21RCa3,
 .container-1NXEtd a[aria-label*=introduction] .iconContainer-21RCa3,
 .container-1NXEtd a[aria-label*=portfolio] .iconContainer-21RCa3,
 .container-1NXEtd a[aria-label*=showcase] .iconContainer-21RCa3,
 .container-1NXEtd a[aria-label*=showoff] .iconContainer-21RCa3 {
-    --icon: var(--icon-portfolio);
-    background-color: var(--icon-color)
+  --icon: var(--icon-portfolio);
+  background-color: var(--icon-color)
 }
 
+.container-1NXEtd a[aria-label*=鍛造] .iconContainer-21RCa3,
 .container-1NXEtd a[aria-label*=forge] .iconContainer-21RCa3 {
-    --icon: var(--icon-forge);
-    background-color: var(--icon-color)
+  --icon: var(--icon-forge);
+  background-color: var(--icon-color)
 }
 
+.container-1NXEtd a[aria-label*=臭蟲] .iconContainer-21RCa3,
+.container-1NXEtd a[aria-label*=錯誤] .iconContainer-21RCa3,
+.container-1NXEtd a[aria-label*=error] .iconContainer-21RCa3,
 .container-1NXEtd a[aria-label*=bug] .iconContainer-21RCa3 {
-    --icon: var(--icon-bug);
-    background-color: var(--icon-color)
+  --icon: var(--icon-bug);
+  background-color: var(--icon-color)
 }
 
+.container-1NXEtd a[aria-label*=過濾] .iconContainer-21RCa3,
 .container-1NXEtd a[aria-label*=filter] .iconContainer-21RCa3 {
-    --icon: var(--icon-filter);
-    background-color: var(--icon-color)
+  --icon: var(--icon-filter);
+  background-color: var(--icon-color)
 }
 
+.container-1NXEtd a[aria-label*=地圖] .iconContainer-21RCa3,
 .container-1NXEtd a[aria-label*=map] .iconContainer-21RCa3,
 .container-1NXEtd a[aria-label*=worldbuilding] .iconContainer-21RCa3 {
-    --icon: var(--icon-map);
-    background-color: var(--icon-color)
+  --icon: var(--icon-map);
+  background-color: var(--icon-color)
 }
 
+.container-1NXEtd a[aria-label*=饋送] .iconContainer-21RCa3,
 .container-1NXEtd a[aria-label*=feed] .iconContainer-21RCa3 {
-    --icon: var(--icon-feed);
-    background-color: var(--icon-color)
+  --icon: var(--icon-feed);
+  background-color: var(--icon-color)
 }
 
+.container-1NXEtd a[aria-label*=回復] .iconContainer-21RCa3,
+.container-1NXEtd a[aria-label*=反饋] .iconContainer-21RCa3,
 .container-1NXEtd a[aria-label*=feedback] .iconContainer-21RCa3 {
-    --icon: var(--icon-feedback);
-    background-color: var(--icon-color)
+  --icon: var(--icon-feedback);
+  background-color: var(--icon-color)
 }
 
+.container-1NXEtd a[aria-label*=材質] .iconContainer-21RCa3,
 .container-1NXEtd a[aria-label*=pbr] .iconContainer-21RCa3,
 .container-1NXEtd a[aria-label*=textur] .iconContainer-21RCa3 {
-    --icon: var(--icon-texture);
-    background-color: var(--icon-color)
+  --icon: var(--icon-texture);
+  background-color: var(--icon-color)
 }
-
+.container-1NXEtd a[aria-label*=文章] .iconContainer-21RCa3,
 .container-1NXEtd a[aria-label*=article] .iconContainer-21RCa3 {
-    --icon: var(--icon-article);
-    background-color: var(--icon-color)
+  --icon: var(--icon-article);
+  background-color: var(--icon-color)
 }
 
+.container-1NXEtd a[aria-label*=粒子] .iconContainer-21RCa3,
 .container-1NXEtd a[aria-label*=particle] .iconContainer-21RCa3 {
-    --icon: var(--icon-particle);
-    background-color: var(--icon-color)
+  --icon: var(--icon-particle);
+  background-color: var(--icon-color)
 }
 
+.container-1NXEtd a[aria-label*=重播] .iconContainer-21RCa3,
+.container-1NXEtd a[aria-label*=剪輯] .iconContainer-21RCa3,
+.container-1NXEtd a[aria-label*=影片] .iconContainer-21RCa3,
 .container-1NXEtd a[aria-label*=clip] .iconContainer-21RCa3,
 .container-1NXEtd a[aria-label*=replay] .iconContainer-21RCa3,
 .container-1NXEtd a[aria-label*=video] .iconContainer-21RCa3 {
-    --icon: var(--icon-video);
-    background-color: var(--icon-color)
+  --icon: var(--icon-video);
+  background-color: var(--icon-color)
 }
 
+.container-1NXEtd a[aria-label*=電影] .iconContainer-21RCa3,
 .container-1NXEtd a[aria-label*=film] .iconContainer-21RCa3,
-.container-1NXEtd a[aria-label*=movie] .iconContainer-21RCa3,
-.container-1NXEtd a[aria-label*=theater] .iconContainer-21RCa3 {
-    --icon: var(--icon-movie);
-    background-color: var(--icon-color)
+.container-1NXEtd a[aria-label*=movie] .iconContainer-21RCa3 {
+  --icon: var(--icon-movie);
+  background-color: var(--icon-color)
 }
-
+.container-1NXEtd a[aria-label*=引用] .iconContainer-21RCa3,
 .container-1NXEtd a[aria-label*=quote] .iconContainer-21RCa3 {
-    --icon: var(--icon-quote);
-    background-color: var(--icon-color)
+  --icon: var(--icon-quote);
+  background-color: var(--icon-color)
 }
 
+.container-1NXEtd a[aria-label*=相片] .iconContainer-21RCa3,
 .container-1NXEtd a[aria-label*=photo] .iconContainer-21RCa3,
 .container-1NXEtd a[aria-label*=photography] .iconContainer-21RCa3 {
-    --icon: var(--icon-photo);
-    background-color: var(--icon-color)
+  --icon: var(--icon-photo);
+  background-color: var(--icon-color)
 }
 
 .container-1NXEtd a[aria-label*=donations] .iconContainer-21RCa3 {
-    --icon: var(--icon-donations);
-    background-color: var(--icon-color)
+  --icon: var(--icon-donations);
+  background-color: var(--icon-color)
 }
 
 .container-1NXEtd a[aria-label*=broadcast] .iconContainer-21RCa3,
 .container-1NXEtd a[aria-label*=livestream] .iconContainer-21RCa3,
+.container-1NXEtd a[aria-label*=直播] .iconContainer-21RCa3,
 .container-1NXEtd a[aria-label*=stream] .iconContainer-21RCa3 {
-    --icon: var(--icon-livestream);
-    background-color: var(--icon-color)
+  --icon: var(--icon-livestream);
+  background-color: var(--icon-color)
 }
 
+.container-1NXEtd a[aria-label*=來賓] .iconContainer-21RCa3,
+.container-1NXEtd a[aria-label*=身分組] .iconContainer-21RCa3,
+.container-1NXEtd a[aria-label*=使用者] .iconContainer-21RCa3,
+.container-1NXEtd a[aria-label*=用戶] .iconContainer-21RCa3,
 .container-1NXEtd a[aria-label*=guest] .iconContainer-21RCa3,
 .container-1NXEtd a[aria-label*=role] .iconContainer-21RCa3,
 .container-1NXEtd a[aria-label*=user] .iconContainer-21RCa3 {
-    --icon: var(--icon-guest);
-    background-color: var(--icon-color)
+  --icon: var(--icon-guest);
+  background-color: var(--icon-color)
 }
 
+.container-1NXEtd a[aria-label*=用戶介面] .iconContainer-21RCa3,
+.container-1NXEtd a[aria-label*=用戶體驗] .iconContainer-21RCa3,
 .container-1NXEtd a[aria-label*=user-experience] .iconContainer-21RCa3,
 .container-1NXEtd a[aria-label*=user-interface] .iconContainer-21RCa3 {
-    --icon: var(--icon-ui-ux);
-    background-color: var(--icon-color)
+  --icon: var(--icon-ui-ux);
+  background-color: var(--icon-color)
 }
 
+.container-1NXEtd a[aria-label*=協議] .iconContainer-21RCa3,
+.container-1NXEtd a[aria-label*=規則] .iconContainer-21RCa3,
 .container-1NXEtd a[aria-label*=common-sense] .iconContainer-21RCa3,
 .container-1NXEtd a[aria-label*=eula] .iconContainer-21RCa3,
 .container-1NXEtd a[aria-label*=rule] .iconContainer-21RCa3 {
-    --icon: var(--icon-rules);
-    background-color: var(--icon-color)
+  --icon: var(--icon-rules);
+  background-color: var(--icon-color)
 }
-
+.container-1NXEtd a[aria-label*=連結] .iconContainer-21RCa3,
+.container-1NXEtd a[aria-label*=url] .iconContainer-21RCa3,
 .container-1NXEtd a[aria-label*=link] .iconContainer-21RCa3 {
-    --icon: var(--icon-link);
-    background-color: var(--icon-color)
+  --icon: var(--icon-link);
+  background-color: var(--icon-color)
 }
 
+.container-1NXEtd a[aria-label*=迴圈] .iconContainer-21RCa3,
 .container-1NXEtd a[aria-label*=circle-jerk] .iconContainer-21RCa3,
 .container-1NXEtd a[aria-label*=circlejerk] .iconContainer-21RCa3,
 .container-1NXEtd a[aria-label*=loop] .iconContainer-21RCa3 {
-    --icon: var(--icon-loop);
-    background-color: var(--icon-color)
+  --icon: var(--icon-loop);
+  background-color: var(--icon-color)
 }
 
 .container-1NXEtd a[aria-label*=vinyl] .iconContainer-21RCa3 {
-    --icon: var(--icon-disc);
-    background-color: var(--icon-color)
+  --icon: var(--icon-disc);
+  background-color: var(--icon-color)
 }
 
+.container-1NXEtd a[aria-label*=電腦] .iconContainer-21RCa3,
 .container-1NXEtd a[aria-label*=computer] .iconContainer-21RCa3,
 .container-1NXEtd a[aria-label*=pc] .iconContainer-21RCa3 {
-    --icon: var(--icon-computer);
-    background-color: var(--icon-color)
+  --icon: var(--icon-computer);
+  background-color: var(--icon-color)
 }
 
+.container-1NXEtd a[aria-label*=微軟] .iconContainer-21RCa3,
 .container-1NXEtd a[aria-label*=microsoft] .iconContainer-21RCa3,
 .container-1NXEtd a[aria-label*=windows] .iconContainer-21RCa3 {
-    --icon: var(--icon-windows);
-    background-color: var(--icon-color)
+  --icon: var(--icon-windows);
+  background-color: var(--icon-color)
 }
 
+.container-1NXEtd a[aria-label*=投票] .iconContainer-21RCa3,
 .container-1NXEtd a[aria-label*=optimiz] .iconContainer-21RCa3,
 .container-1NXEtd a[aria-label*=politic] .iconContainer-21RCa3,
 .container-1NXEtd a[aria-label*=poll] .iconContainer-21RCa3,
 .container-1NXEtd a[aria-label*=vote] .iconContainer-21RCa3,
 .container-1NXEtd a[aria-label*=voting] .iconContainer-21RCa3 {
-    --icon: var(--icon-poll);
-    background-color: var(--icon-color)
+  --icon: var(--icon-poll);
+  background-color: var(--icon-color)
 }
 
+.container-1NXEtd a[aria-label*=交易] .iconContainer-21RCa3,
 .container-1NXEtd a[aria-label*=deal] .iconContainer-21RCa3,
 .container-1NXEtd a[aria-label*=trade] .iconContainer-21RCa3,
 .container-1NXEtd a[aria-label*=trading] .iconContainer-21RCa3 {
-    --icon: var(--icon-deal);
-    background-color: var(--icon-color)
+  --icon: var(--icon-deal);
+  background-color: var(--icon-color)
 }
 
+.container-1NXEtd a[aria-label*=版權] .iconContainer-21RCa3,
 .container-1NXEtd a[aria-label*=copyright] .iconContainer-21RCa3,
 .container-1NXEtd a[aria-label*=ip-rights] .iconContainer-21RCa3,
 .container-1NXEtd a[aria-label*=ip_rights] .iconContainer-21RCa3 {
-    --icon: var(--icon-copyright);
-    background-color: var(--icon-color)
+  --icon: var(--icon-copyright);
+  background-color: var(--icon-color)
 }
 
+.container-1NXEtd a[aria-label*=伺服器] .iconContainer-21RCa3,
 .container-1NXEtd a[aria-label*=discords] .iconContainer-21RCa3,
 .container-1NXEtd a[aria-label*=server] .iconContainer-21RCa3 {
-    --icon: var(--icon-server);
-    background-color: var(--icon-color)
+  --icon: var(--icon-server);
+  background-color: var(--icon-color)
 }
 
+.container-1NXEtd a[aria-label*=迷因] .iconContainer-21RCa3,
+.container-1NXEtd a[aria-label*=表情] .iconContainer-21RCa3,
 .container-1NXEtd a[aria-label*=emoji] .iconContainer-21RCa3,
 .container-1NXEtd a[aria-label*=emote] .iconContainer-21RCa3,
 .container-1NXEtd a[aria-label*=meme] .iconContainer-21RCa3,
 .container-1NXEtd a[aria-label*=shit-posting] .iconContainer-21RCa3,
 .container-1NXEtd a[aria-label*=shitposting] .iconContainer-21RCa3 {
-    --icon: var(--icon-meme);
-    background-color: var(--icon-color)
+  --icon: var(--icon-meme);
+  background-color: var(--icon-color)
 }
 
+.container-1NXEtd a[aria-label*=搜尋] .iconContainer-21RCa3,
 .container-1NXEtd a[aria-label*=search] .iconContainer-21RCa3 {
-    --icon: var(--icon-search);
-    background-color: var(--icon-color)
+  --icon: var(--icon-search);
+  background-color: var(--icon-color)
 }
 
+.container-1NXEtd a[aria-label*=肺炎] .iconContainer-21RCa3,
 .container-1NXEtd a[aria-label*=coof] .iconContainer-21RCa3,
 .container-1NXEtd a[aria-label*=corona] .iconContainer-21RCa3,
 .container-1NXEtd a[aria-label*=covid] .iconContainer-21RCa3,
 .container-1NXEtd a[aria-label*=gorona] .iconContainer-21RCa3 {
-    --icon: var(--icon-covid19);
-    background-color: var(--icon-color)
+  --icon: var(--icon-covid19);
+  background-color: var(--icon-color)
 }
 
+.container-1NXEtd a[aria-label*=圖奇] .iconContainer-21RCa3,
 .container-1NXEtd a[aria-label*=twitch] .iconContainer-21RCa3 {
-    --icon: var(--icon-twitch);
-    background-color: var(--icon-color)
+  --icon: var(--icon-twitch);
+  background-color: var(--icon-color)
 }
 
+.container-1NXEtd a[aria-label*=隨機] .iconContainer-21RCa3,
 .container-1NXEtd a[aria-label*=misc] .iconContainer-21RCa3,
 .container-1NXEtd a[aria-label*=random] .iconContainer-21RCa3 {
-    --icon: var(--icon-random);
-    background-color: var(--icon-color)
+  --icon: var(--icon-random);
+  background-color: var(--icon-color)
 }
 
+.container-1NXEtd a[aria-label*=機器人] .iconContainer-21RCa3,
 .container-1NXEtd a[aria-label*=bot] .iconContainer-21RCa3 {
-    background-color: var(--icon-color);
-    --icon: var(--icon-bot)
+  background-color: var(--icon-color);
+  --icon: var(--icon-bot)
 }
 
+.container-1NXEtd a[aria-label*=媒體] .iconContainer-21RCa3,
 .container-1NXEtd a[aria-label*=media] .iconContainer-21RCa3 {
-    background-color: var(--icon-color);
-    --icon: var(--icon-media)
+  background-color: var(--icon-color);
+  --icon: var(--icon-media)
 }
 
+.container-1NXEtd a[aria-label*=點子] .iconContainer-21RCa3,
+.container-1NXEtd a[aria-label*=建議] .iconContainer-21RCa3,
 .container-1NXEtd a[aria-label*=idea] .iconContainer-21RCa3,
 .container-1NXEtd a[aria-label*=suggestion] .iconContainer-21RCa3 {
-    --icon: var(--icon-idea);
-    background-color: var(--icon-color)
+  --icon: var(--icon-idea);
+  background-color: var(--icon-color)
 }
 
+.container-1NXEtd a[aria-label*=說話] .iconContainer-21RCa3,
+.container-1NXEtd a[aria-label*=聊] .iconContainer-21RCa3,
+.container-1NXEtd a[aria-label*=訊息] .iconContainer-21RCa3,
 .container-1NXEtd a[aria-label*=chat] .iconContainer-21RCa3,
 .container-1NXEtd a[aria-label*=discussion] .iconContainer-21RCa3,
 .container-1NXEtd a[aria-label*=general] .iconContainer-21RCa3,
 .container-1NXEtd a[aria-label*=message] .iconContainer-21RCa3,
 .container-1NXEtd a[aria-label*=off-topic] .iconContainer-21RCa3,
 .container-1NXEtd a[aria-label*=offtopic] .iconContainer-21RCa3 {
-    --icon: var(--icon-discussion);
-    background-color: var(--icon-color)
+  --icon: var(--icon-discussion);
+  background-color: var(--icon-color)
 }
 
+.container-1NXEtd a[aria-label*=武器] .iconContainer-21RCa3,
+.container-1NXEtd a[aria-label*=槍] .iconContainer-21RCa3,
 .container-1NXEtd a[aria-label*=gun-] .iconContainer-21RCa3,
 .container-1NXEtd a[aria-label*=guns] .iconContainer-21RCa3,
 .container-1NXEtd a[aria-label*=pistol] .iconContainer-21RCa3,
 .container-1NXEtd a[aria-label*=weapon] .iconContainer-21RCa3 {
-    --icon: var(--icon-weapon);
-    background-color: var(--icon-color)
+  --icon: var(--icon-weapon);
+  background-color: var(--icon-color)
 }
 
+.container-1NXEtd a[aria-label*=軍隊] .iconContainer-21RCa3,
 .container-1NXEtd a[aria-label*=military] .iconContainer-21RCa3 {
-    --icon: var(--icon-military);
-    background-color: var(--icon-color)
+  --icon: var(--icon-military);
+  background-color: var(--icon-color)
 }
 
+
+.container-1NXEtd a[aria-label*=光圈] .iconContainer-21RCa3,
+.container-1NXEtd a[aria-label*=相機] .iconContainer-21RCa3,
 .container-1NXEtd a[aria-label*=aperture] .iconContainer-21RCa3,
 .container-1NXEtd a[aria-label*=camera] .iconContainer-21RCa3,
 .container-1NXEtd a[aria-label*=vent] .iconContainer-21RCa3 {
-    --icon: var(--icon-aperture);
-    background-color: var(--icon-color)
+  --icon: var(--icon-aperture);
+  background-color: var(--icon-color)
 }
 
+.container-1NXEtd a[aria-label*=火] .iconContainer-21RCa3,
 .container-1NXEtd a[aria-label*=fire] .iconContainer-21RCa3,
 .container-1NXEtd a[aria-label*=rant] .iconContainer-21RCa3 {
-    --icon: var(--icon-fire);
-    background-color: var(--icon-color)
+  --icon: var(--icon-fire);
+  background-color: var(--icon-color)
 }
 
+.container-1NXEtd a[aria-label*=管理] .iconContainer-21RCa3,
 .container-1NXEtd a[aria-label*=admin] .iconContainer-21RCa3 {
-    --icon: var(--icon-admin);
-    background-color: var(--icon-color)
+  --icon: var(--icon-admin);
+  background-color: var(--icon-color)
 }
 
+.container-1NXEtd a[aria-label*=設定] .iconContainer-21RCa3,
 .container-1NXEtd a[aria-label*=setting] .iconContainer-21RCa3 {
-    --icon: var(--icon-settings);
-    background-color: var(--icon-color)
+  --icon: var(--icon-settings);
+  background-color: var(--icon-color)
 }
 
+.container-1NXEtd a[aria-label*=新聞] .iconContainer-21RCa3,
 .container-1NXEtd a[aria-label*=news] .iconContainer-21RCa3 {
-    --icon: var(--icon-news);
-    background-color: var(--icon-color)
+  --icon: var(--icon-news);
+  background-color: var(--icon-color)
 }
 
+.container-1NXEtd a[aria-label*=翻譯] .iconContainer-21RCa3,
 .container-1NXEtd a[aria-label*=translat] .iconContainer-21RCa3 {
-    --icon: var(--icon-translate);
-    background-color: var(--icon-color)
+  --icon: var(--icon-translate);
+  background-color: var(--icon-color)
 }
 
+.container-1NXEtd a[aria-label*=大廳] .iconContainer-21RCa3,
 .container-1NXEtd a[aria-label*=lobby] .iconContainer-21RCa3,
 .container-1NXEtd a[aria-label*=lounge] .iconContainer-21RCa3 {
-    --icon: var(--icon-lounge);
-    background-color: var(--icon-color)
+  --icon: var(--icon-lounge);
+  background-color: var(--icon-color)
 }
 
+.container-1NXEtd a[aria-label*=會員] .iconContainer-21RCa3,
 .container-1NXEtd a[aria-label^=vip] .iconContainer-21RCa3 {
-    --icon: var(--icon-vip);
-    background-color: var(--icon-color)
+  --icon: var(--icon-vip);
+  background-color: var(--icon-color)
 }
 
+.container-1NXEtd a[aria-label*=朋友] .iconContainer-21RCa3,
 .container-1NXEtd a[aria-label*=friends] .iconContainer-21RCa3,
 .container-1NXEtd a[aria-label^=co-op] .iconContainer-21RCa3 {
-    --icon: var(--icon-friends);
-    background-color: var(--icon-color)
+  --icon: var(--icon-friends);
+  background-color: var(--icon-color)
 }
 
+.container-1NXEtd a[aria-label*=打字] .iconContainer-21RCa3,
+.container-1NXEtd a[aria-label*=沒麥克風] .iconContainer-21RCa3,
 .container-1NXEtd a[aria-label*=no-mic] .iconContainer-21RCa3,
 .container-1NXEtd a[aria-label*=sooks-quarantine-cabin] .iconContainer-21RCa3,
 .container-1NXEtd a[aria-label*=text-chat] .iconContainer-21RCa3,
@@ -11867,10 +12033,15 @@ html:not(.app-focused) .sidebarRegionScroller-FXiQOh {
 .container-1NXEtd a[aria-label*=voice-text] .iconContainer-21RCa3,
 .container-1NXEtd a[aria-label*=voiceroom] .iconContainer-21RCa3,
 .container-1NXEtd a[aria-label^=text] .iconContainer-21RCa3 {
-    --icon: var(--icon-keyboard);
-    background-color: var(--icon-color)
+  --icon: var(--icon-keyboard);
+  background-color: var(--icon-color)
 }
 
+.container-1NXEtd a[aria-label*=書] .iconContainer-21RCa3,
+.container-1NXEtd a[aria-label*=日記] .iconContainer-21RCa3,
+.container-1NXEtd a[aria-label*=作業] .iconContainer-21RCa3,
+.container-1NXEtd a[aria-label*=故事] .iconContainer-21RCa3,
+.container-1NXEtd a[aria-label*=教學] .iconContainer-21RCa3,
 .container-1NXEtd a[aria-label*=book] .iconContainer-21RCa3,
 .container-1NXEtd a[aria-label*=diary] .iconContainer-21RCa3,
 .container-1NXEtd a[aria-label*=homework] .iconContainer-21RCa3,
@@ -11878,125 +12049,160 @@ html:not(.app-focused) .sidebarRegionScroller-FXiQOh {
 .container-1NXEtd a[aria-label*=stories] .iconContainer-21RCa3,
 .container-1NXEtd a[aria-label*=story] .iconContainer-21RCa3,
 .container-1NXEtd a[aria-label*=tutorial] .iconContainer-21RCa3 {
-    --icon: var(--icon-book);
-    background-color: var(--icon-color)
+  --icon: var(--icon-book);
+  background-color: var(--icon-color)
 }
 
+.container-1NXEtd a[aria-label*=應用程式] .iconContainer-21RCa3,
 .container-1NXEtd a[aria-label*=app] .iconContainer-21RCa3 {
-    --icon: var(--icon-app);
-    background-color: var(--icon-color)
+  --icon: var(--icon-app);
+  background-color: var(--icon-color)
 }
 
+.container-1NXEtd a[aria-label*=教育] .iconContainer-21RCa3,
+.container-1NXEtd a[aria-label*=學校] .iconContainer-21RCa3,
+.container-1NXEtd a[aria-label*=學習] .iconContainer-21RCa3,
 .container-1NXEtd a[aria-label*=education] .iconContainer-21RCa3,
 .container-1NXEtd a[aria-label*=school] .iconContainer-21RCa3,
 .container-1NXEtd a[aria-label*=study] .iconContainer-21RCa3 {
-    --icon: var(--icon-school);
-    background-color: var(--icon-color)
+  --icon: var(--icon-school);
+  background-color: var(--icon-color)
 }
 
+.container-1NXEtd a[aria-label*=動態圖片] .iconContainer-21RCa3,
 .container-1NXEtd a[aria-label*=gif] .iconContainer-21RCa3 {
-    --icon: var(--icon-gif);
-    background-color: var(--icon-color)
+  --icon: var(--icon-gif);
+  background-color: var(--icon-color)
 }
 
+.container-1NXEtd a[aria-label*=禮物] .iconContainer-21RCa3,
+.container-1NXEtd a[aria-label*=送禮] .iconContainer-21RCa3,
 .container-1NXEtd a[aria-label*=gift] .iconContainer-21RCa3,
 .container-1NXEtd a[aria-label*=giveaway] .iconContainer-21RCa3 {
-    --icon: var(--icon-gift);
-    background-color: var(--icon-color)
+  --icon: var(--icon-gift);
+  background-color: var(--icon-color)
 }
 
+.container-1NXEtd a[aria-label*=科學] .iconContainer-21RCa3,
 .container-1NXEtd a[aria-label*=science] .iconContainer-21RCa3 {
-    --icon: var(--icon-science);
-    background-color: var(--icon-color)
+  --icon: var(--icon-science);
+  background-color: var(--icon-color)
 }
 
+.container-1NXEtd a[aria-label*=戲院] .iconContainer-21RCa3,
+.container-1NXEtd a[aria-label*=戲劇] .iconContainer-21RCa3,
+.container-1NXEtd a[aria-label*=電影院] .iconContainer-21RCa3,
 .container-1NXEtd a[aria-label*=drama] .iconContainer-21RCa3,
 .container-1NXEtd a[aria-label*=theater] .iconContainer-21RCa3 {
-    --icon: var(--icon-theater);
-    background-color: var(--icon-color)
+  --icon: var(--icon-theater);
+  background-color: var(--icon-color)
 }
 
+.container-1NXEtd a[aria-label*=標誌] .iconContainer-21RCa3,
+.container-1NXEtd a[aria-label*=目標] .iconContainer-21RCa3,
+.container-1NXEtd a[aria-label*=舉報] .iconContainer-21RCa3,
+.container-1NXEtd a[aria-label*=回報] .iconContainer-21RCa3,
+.container-1NXEtd a[aria-label*=檢舉] .iconContainer-21RCa3,
 .container-1NXEtd a[aria-label*=flag] .iconContainer-21RCa3,
 .container-1NXEtd a[aria-label*=goal] .iconContainer-21RCa3,
 .container-1NXEtd a[aria-label*=report] .iconContainer-21RCa3 {
-    --icon: var(--icon-flag);
-    background-color: var(--icon-color)
+  --icon: var(--icon-flag);
+  background-color: var(--icon-color)
 }
 
+.container-1NXEtd a[aria-label*=興趣] .iconContainer-21RCa3,
 .container-1NXEtd a[aria-label*=hobbies] .iconContainer-21RCa3,
 .container-1NXEtd a[aria-label*=hobby] .iconContainer-21RCa3,
 .container-1NXEtd a[aria-label*=interest] .iconContainer-21RCa3 {
-    --icon: var(--icon-hobby);
-    background-color: var(--icon-color)
+  --icon: var(--icon-hobby);
+  background-color: var(--icon-color)
 }
 
+.container-1NXEtd a[aria-label*=鋼琴] .iconContainer-21RCa3,
 .container-1NXEtd a[aria-label*=piano] .iconContainer-21RCa3 {
-    --icon: var(--icon-piano);
-    background-color: var(--icon-color)
+  --icon: var(--icon-piano);
+  background-color: var(--icon-color)
 }
 
+.container-1NXEtd a[aria-label*=蘋果] .iconContainer-21RCa3,
 .container-1NXEtd a[aria-label*=apple] .iconContainer-21RCa3 {
-    --icon: var(--icon-apple);
-    background-color: var(--icon-color)
+  --icon: var(--icon-apple);
+  background-color: var(--icon-color)
 }
 
+.container-1NXEtd a[aria-label*=日曆] .iconContainer-21RCa3,
+.container-1NXEtd a[aria-label*=月曆] .iconContainer-21RCa3,
+.container-1NXEtd a[aria-label*=事件] .iconContainer-21RCa3,
+.container-1NXEtd a[aria-label*=活動] .iconContainer-21RCa3,
 .container-1NXEtd a[aria-label*=calendar] .iconContainer-21RCa3,
 .container-1NXEtd a[aria-label*=event] .iconContainer-21RCa3 {
-    --icon: var(--icon-event);
-    background-color: var(--icon-color)
+  --icon: var(--icon-event);
+  background-color: var(--icon-color)
 }
 
+.container-1NXEtd a[aria-label*=材料] .iconContainer-21RCa3,
 .container-1NXEtd a[aria-label*=material] .iconContainer-21RCa3 {
-    --icon: var(--icon-material);
-    background-color: var(--icon-color)
+  --icon: var(--icon-material);
+  background-color: var(--icon-color)
 }
 
+.container-1NXEtd a[aria-label*=谷歌] .iconContainer-21RCa3,
 .container-1NXEtd a[aria-label*=google] .iconContainer-21RCa3 {
-    --icon: var(--icon-google);
-    background-color: var(--icon-color)
+  --icon: var(--icon-google);
+  background-color: var(--icon-color)
 }
 
+.container-1NXEtd a[aria-label*=路標] .iconContainer-21RCa3,
 .container-1NXEtd a[aria-label*=road-sign] .iconContainer-21RCa3 {
-    --icon: var(--icon-road-sign);
-    background-color: var(--icon-color)
+  --icon: var(--icon-road-sign);
+  background-color: var(--icon-color)
 }
 
+.container-1NXEtd a[aria-label*=文件] .iconContainer-21RCa3,
+.container-1NXEtd a[aria-label*=word] .iconContainer-21RCa3,
 .container-1NXEtd a[aria-label*=document] .iconContainer-21RCa3,
 .container-1NXEtd a[aria-label*=sheet] .iconContainer-21RCa3 {
-    --icon: var(--icon-document);
-    background-color: var(--icon-color)
+  --icon: var(--icon-document);
+  background-color: var(--icon-color)
 }
 
+.container-1NXEtd a[aria-label*=字符表] .iconContainer-21RCa3,
 .container-1NXEtd a[aria-label*=character-sheet] .iconContainer-21RCa3 {
-    --icon: var(--icon-character-sheet);
-    background-color: var(--icon-color)
+  --icon: var(--icon-character-sheet);
+  background-color: var(--icon-color)
 }
 
+.container-1NXEtd a[aria-label*=城堡] .iconContainer-21RCa3,
 .container-1NXEtd a[aria-label*=castle] .iconContainer-21RCa3 {
-    --icon: var(--icon-castle);
-    background-color: var(--icon-color)
+  --icon: var(--icon-castle);
+  background-color: var(--icon-color)
 }
 
+.container-1NXEtd a[aria-label*=卡拉ok] .iconContainer-21RCa3,
+.container-1NXEtd a[aria-label*=ktv] .iconContainer-21RCa3,
 .container-1NXEtd a[aria-label*=karaoke] .iconContainer-21RCa3 {
-    --icon: var(--icon-microphone2);
-    background-color: var(--icon-color)
+  --icon: var(--icon-microphone2);
+  background-color: var(--icon-color)
 }
 
+.container-1NXEtd a[aria-label*=標記] .iconContainer-21RCa3,
+.container-1NXEtd a[aria-label*=釘選] .iconContainer-21RCa3,
 .container-1NXEtd a[aria-label*=bulletin] .iconContainer-21RCa3,
 .container-1NXEtd a[aria-label*=pinned] .iconContainer-21RCa3,
 .container-1NXEtd a[aria-label*=pins] .iconContainer-21RCa3 {
-    --icon: var(--icon-pin);
-    background-color: var(--icon-color)
+  --icon: var(--icon-pin);
+  background-color: var(--icon-color)
 }
 
+.container-1NXEtd a[aria-label*=音樂] .iconContainer-21RCa3,
 .container-1NXEtd a[aria-label*=dj] .iconContainer-21RCa3,
 .container-1NXEtd a[aria-label*=jukebox] .iconContainer-21RCa3,
 .container-1NXEtd a[aria-label*=music-bot] .iconContainer-21RCa3,
 .container-1NXEtd a[aria-label*=music] .iconContainer-21RCa3,
 .container-1NXEtd a[aria-label*=radio] .iconContainer-21RCa3,
 .container-1NXEtd a[aria-label*=tunes] .iconContainer-21RCa3 {
-    --icon: var(--icon-music);
-    background-color: var(--icon-color)
+  --icon: var(--icon-music);
+  background-color: var(--icon-color)
 }
 
 .container-1NXEtd .modeLocked-3sToxd a .iconContainer-21RCa3 {
